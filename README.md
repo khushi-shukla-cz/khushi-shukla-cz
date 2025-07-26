@@ -1,65 +1,67 @@
-# 👋 Hi, I'm Khushi Shukla  
-<br>
+# 👋 Hi there, I'm Khushi Shukla  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧰 Languages & Tools
+## 🚀 About Me
+
+I'm a passionate **AI & Full Stack Developer** with experience building intelligent applications powered by real-time AI, OCR, and modern web stacks. Currently pursuing a B.Tech in IT (2023–2027), I love building impactful projects and bringing ideas to life through code.
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/><br/>Redux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Figma</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/>Firebase</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
+    <td align="center" width="96">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
+    <br/>AWS
+  </a>
+</td>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-
-<!-- Databases & APIs -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini_API-FF6F61?style=for-the-badge&logo=google&logoColor=white" />
-
-<!-- AI/ML & OCR -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Tesseract.js-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
-
-<!-- Tools & DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40"/><br/>Jest</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/>TensorFlow</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 My Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cs&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cz&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=khushi-shukla-cz&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi-shukla-cz&theme=tokyonight" />
@@ -67,12 +69,19 @@
 
 ---
 
-## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-shukla/)    
-- 📧 Email: `khushi.j.shukla@gmail.com`  
+<div align="center">
+  <img src="https://github.com/khushi-shukla-cz/khushi-shukla-cz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-shukla/)  
+- 📧 Email: [`khushi.j.shukla@gmail.com`](mailto:khushi.j.shukla@gmail.com)  
 - 📍 Mumbai, India  
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *“Code is like humor. If you have to explain it, it’s probably not good.” – Cory House*
