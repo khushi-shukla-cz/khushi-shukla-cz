@@ -1,20 +1,13 @@
-# 👋 Hi, I'm Khushi Shukla!
+# 👋 Hi, I'm Khushi Shukla  
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs;Passionate+about+Emotional+AI+%26+Healthcare+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-> 🎓 IT Engineering Student (2023–2027) from Mumbai, India  
-> 💡 Full Stack + AI Developer | 🚀 Hackathon Finalist  
-> 🌐 Building smart, scalable web apps using modern frameworks & AI integrations
-
----
-
-## 🛠️ Tech Stack
+## 🧰 Languages & Tools
 
 <div align="center">
 
@@ -22,7 +15,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -63,78 +55,24 @@
 
 ---
 
-## 💡 Notable Projects
-
-### 🌪️ **TropoScan** – AI-Powered Cyclone Detector  
-> React + TypeScript, Flask, U-Net, INSAT-3D satellite imagery  
-Real-time cyclone detection with 92% accuracy and risk overlays  
-
-### ❤️ **Lone Town** – Emotionally Intelligent Dating App  
-> React Native, Node.js, Firebase, D-ID, Socket.io  
-AI chatbot, cinematic UI, emotion-based matchmaking, voice input  
-
-### 💬 **PrepMate** – AI Interview Platform  
-> Flask, Web Speech API, TensorFlow.js  
-Mock interviews with multilingual feedback & analytics  
-
-### 🩺 **SehatSaathi** – AI Health Assistant  
-> React, Node.js, Supabase  
-Smart appointments, real-time alerts, health tracker  
-
-### 🌾 **AgriVerse** – Agricultural Education Platform  
-> React, TailwindCSS, Framer Motion  
-Weather simulator, multilingual forums, Vite optimization  
-
-### 🧓 **AarogyaMitra** – Elder-Care Health App  
-> React, TypeScript, MongoDB, Gemini AI  
-OCR-based medicine scanner, AI assistant, mental health dashboards  
-
----
-
-## 💼 Work Experience
-
-### 🔐 **Full Stack Intern** – *LitAmor*  
-🗓️ *Jul 2025 – Present*  
-- Built Firebase Authentication & profile system  
-- Contributed to modular Expo prebuild capsule components  
-
-### 🖥️ **Web Intern** – *Zemo Sports*  
-🗓️ *Jun 2025 – Present*  
-- Designed responsive UI in Figma + Bootstrap  
-- Improved accessibility & layout UX  
-
-### 🧾 **OCR Intern** – *Palcoa Ltd.*  
-🗓️ *Nov 2024 – Apr 2025*  
-- Developed OCR models using Python + OpenCV  
-- Optimized digit recognition through contour filtering  
-
----
-
-## 🏆 Hackathons & Leadership
-
-- 🥇 Finalist: **HackOrbit**, **ByteVerse (NIT Patna)**, **Suprathon**, **Dev With AI**, and more  
-- 🌐 Member: **Gender Champion's Club** (NSS)  
-- 🎤 Lead: **Ek Bharat Shreshtha Bharat** — coordinated national events  
-
----
-
-## 📈 GitHub Stats
+## 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=khushi123&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi123&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cs&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=khushi-shukla-cz&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi-shukla-cz&theme=tokyonight" />
 </div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-shukla/)  
-- 🌐 [Portfolio](https://khushi.dev)  
-- 📧 Email: `khushi@email.com`  
-- 📍 Location: Mumbai, India  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-shukla/)    
+- 📧 Email: `khushi.j.shukla@gmail.com`  
+- 📍 Mumbai, India  
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
