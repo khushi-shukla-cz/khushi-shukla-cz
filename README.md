@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khushi Shukla!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs; Passionate+about+Emotional+AI+%26+Healthcare+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Full+Stack+Developer;Hackathon+Finalist+%7C+Tech+Explorer;React+%7C+Node.js+%7C+AI+APIs;Passionate+about+Emotional+AI+%26+Healthcare+Tech" alt="Typing SVG" />
 </div>
 
 ---
