@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI & Full Stack Developer** with experience building intelligent applications powered by real-time AI, OCR, and modern web stacks. Currently pursuing a B.Tech in IT (2023–2027), I love building impactful projects and bringing ideas to life through code.
+I'm a passionate **AI & Full Stack Developer** with experience building intelligent applications powered by real-time AI, OCR, and modern web stacks.  
+Currently pursuing a B.Tech in IT (2023–2027), I love building impactful projects and bringing ideas to life through code.
 
 ---
 
@@ -36,13 +37,7 @@ I'm a passionate **AI & Full Stack Developer** with experience building intellig
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/>Firebase</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
-    <td align="center" width="96">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
-    <br/>AWS
-  </a>
-</td>
-
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/><br/>AWS</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td>
@@ -60,8 +55,8 @@ I'm a passionate **AI & Full Stack Developer** with experience building intellig
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cz&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=khushi-shukla-cz&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi-shukla-cz&theme=tokyonight" />
@@ -69,19 +64,10 @@ I'm a passionate **AI & Full Stack Developer** with experience building intellig
 
 ---
 
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/khushi-shukla-cz/khushi-shukla-cz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/khushi-shukla-cz/khushi-shukla-cz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-shukla/)  
-- 📧 Email: [`khushi.j.shukla@gmail.com`](mailto:khushi.j.shukla@gmail.com)  
-- 📍 Mumbai, India  
-
----
-
-> *“Code is like humor. If you have to explain it, it’s probably not good.” – Cory House*
