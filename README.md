@@ -64,10 +64,3 @@ Currently pursuing a B.Tech in IT (2023–2027), I love building impactful proje
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khushi-shukla-cz/khushi-shukla-cz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
