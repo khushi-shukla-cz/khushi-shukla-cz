@@ -57,7 +57,7 @@ Currently pursuing a B.Tech in IT (2023–2027), I love building impactful proje
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=khushi-shukla-cz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-shukla-cz&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=khushi-shukla-cz&theme=tokyonight&hide_border=true" />
+<!--   <img src="https://streak-stats.demolab.com/?user=khushi-shukla-cz&theme=tokyonight&hide_border=true" /> -->
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi-shukla-cz&theme=tokyonight" />
 </div>
